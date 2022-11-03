@@ -1,2 +1,0 @@
-La fecha actual es: 01/09/2022 
-Escriba la nueva fecha: (dd-mm-aa) 
